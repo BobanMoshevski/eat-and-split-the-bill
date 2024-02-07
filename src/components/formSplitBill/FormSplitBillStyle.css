@@ -1,0 +1,4 @@
+.form-split-bill {
+  grid-template-columns: 1fr 12rem;
+  padding: 2rem;
+}
